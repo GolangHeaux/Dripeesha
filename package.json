@@ -1,0 +1,27 @@
+{
+	"name": "dripeesha",
+	"displayName": "Dripeesha",
+	"description": "Dripeesha's IDE. Heaux Codeture.",
+	"publisher": "GolangHeaux",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dripeesha",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dripeesha-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e27ad221-8d1a-4b40-945e-00d8450714b5",
+		"publisherDisplayName": "GolangHeaux",
+		"publisherId": "4552bb18-9740-4873-9f87-a9ecc36a402f"
+	}
+}
